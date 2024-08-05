@@ -1,4 +1,4 @@
-This repository contains my practical assignments for the Machine Learning course lectured by Dr. Seyedsalehi on Spring 2024 semester.
+This repository contains my practical assignments for the Machine Learning course lectured by Dr. Fatemeh Seyedsalehi on Spring 2024 semester.
 
 The assignments include jupyter notebooks for the following topics:
 
